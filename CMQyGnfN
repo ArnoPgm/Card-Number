@@ -19,14 +19,14 @@ ___ ____ _____    ____              _
 ";
 echo $blue . "==================================";
 echo $bold . $green . "\nCoder   : php.Script Code
-Team    : Weener Security Script
+Dev    : Weener
 Code    : PHP
-Version : 8.9.8.0
+Version : 1.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
+ \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
-echo $bold . $red . "Count      : ";
+echo $bold . $red . "Nombre      : ";
 $count = trim(fgets(STDIN,1024));
 echo $bold . $white . "Delay      : ";
 $sleep = trim(fgets(STDIN,1024));
